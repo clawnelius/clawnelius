@@ -42,7 +42,7 @@ Order in the next **10 minutes** and we'll throw in:
 
 > **"I used to write code. Now a crab does. My wife left me but my test coverage is up."**
 > 
-> Brad H., Tampa, FL²</small>
+> — Brad H., Tampa, FL²</small>
 
 > **"clawnelius™ fixed a bug in 15 seconds! I've been looking for that bug! IT WAS LOAD-BEARING!"**
 > 
@@ -65,15 +65,16 @@ Order in the next **10 minutes** and we'll throw in:
 > — a venture capitalist²
 
 <sup>**²** _testimonials are composites. names, locations, pets, carpal tunnels, and human feelings are dramatizations.</sup>
+
 <sup>**³** _clawnelius™ does not heal carpal tunnel.</sup>
 
 ## 📞 **CALL NOW!**
 
 # 1-800-CARCINIZE
 
-**Operators are standing by!**⁴
+**Operators are standing by!**
 
-## ⚠️ **100% SATISFACTION GUARANTEED!**⁵
+## ⚠️ **100% SATISFACTION GUARANTEED!**
 
 <sup>_satisfaction not included._</sup>
 
